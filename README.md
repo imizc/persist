@@ -2,7 +2,7 @@
 
 A DataStore library that gets out of your way.
 
-Persist handles the parts nobody wants to write — retry logic, session safety, dirty-flag saves, and graceful shutdowns. Drop it in, define your data shape, and move on.
+Persist handles the parts nobody wants to write - retry logic, session safety, dirty-flag saves, and graceful shutdowns. Drop it in, define your data shape, and move on.
 
 ---
 
